@@ -4,4 +4,4 @@ class Dog
         @age   = age
         @breed = breed
     end
-end
+end 
